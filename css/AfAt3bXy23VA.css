@@ -402,15 +402,15 @@ button {
   row-gap: 0;
 }
 
-.medium-widget-article__title{
+.medium-widget-article__title {
   color: var(--title-color) !important;
 }
 
-.medium-widget-article__description{
+.medium-widget-article__description {
   color: var(--text-color) !important;
 }
 
-.medium-widget-article__date{
+.medium-widget-article__date {
   color: var(--text-color) !important;
 }
 
@@ -532,7 +532,7 @@ button {
   margin-bottom: var(--mb-1);
 }
 
-.company-name{
+.company-name {
   color: var(--text-color-light);
 }
 
@@ -1183,6 +1183,6 @@ button {
   }
 }
 
-svg{
+svg {
   fill: var(--first-color);
 }
